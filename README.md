@@ -1,9 +1,3 @@
-# README
-
-This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum. 
-Find it at http://www.theodinproject.com
-
-
 # Re-former
 
 This is a simple Ruby on Rails application called "Re-former" that allows users to create and edit user accounts.
@@ -39,7 +33,7 @@ cd re-former
 ```
 bundle install
 ```
-## 4. Set up the database:
+## 4. Set up the database:wrench:
 ```
 rails db:migrate
 ```
@@ -61,6 +55,7 @@ rails server
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 The front end aspect need some cute CSS designs and page functionality
 
-## License
+## Resources:book:
+This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum. 
+Find it at http://www.theodinproject.com
 
-This project is licensed under the [MIT License](LICENSE).
