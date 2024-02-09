@@ -9,7 +9,7 @@ This is a simple Ruby on Rails application called "Re-former" that allows users 
 - Form validations are implemented to ensure that usernames and emails are unique, and passwords are at least 6 characters long.
 - Error messages are displayed when form submissions fail validation.
 
-## Setup
+## Setup🛠️
 
 To run this project locally, make sure you have the following prerequisites installed:
 
@@ -33,7 +33,7 @@ cd re-former
 ```
 bundle install
 ```
-## 4. Set up the database:wrench:
+## 4. Set up the database🔧
 ```
 rails db:migrate
 ```
@@ -42,7 +42,7 @@ rails db:migrate
 rails server
 ```
 
-## 6. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
+* Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
 
 ## Usage
 
@@ -55,7 +55,7 @@ rails server
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 The front end aspect need some cute CSS designs and page functionality
 
-## Resources:book:
+## Resources📙
 This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum. 
 Find it at http://www.theodinproject.com
 
